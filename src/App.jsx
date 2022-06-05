@@ -1,3 +1,4 @@
 export function App() {
-    return <h1>Hello Worold</h1>
+    throw new Error ('Eita!')
+    return <h1>Hello World!</h1>
 }
